@@ -1,0 +1,5 @@
+﻿  main.cpp
+c:\users\zlatan·long\desktop\vs下的动态链表\vs下的动态链表\main.cpp(489): warning C4700: 使用了未初始化的局部变量“tf”
+c:\users\zlatan·long\desktop\vs下的动态链表\vs下的动态链表\main.cpp(509): warning C4700: 使用了未初始化的局部变量“tf”
+  VS下的动态链表.vcxproj -> C:\Users\Zlatan·Long\Desktop\VS下的动态链表\Debug\VS下的动态链表.exe
+  VS下的动态链表.vcxproj -> C:\Users\Zlatan·Long\Desktop\VS下的动态链表\Debug\VS下的动态链表.pdb (Partial PDB)
